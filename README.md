@@ -2,6 +2,7 @@
 
 // 1번문제 소스코드
 '
+
 import math
 import numpy as np
 import cv2
@@ -100,8 +101,10 @@ if __name__ == "__main__":
 
 
 //결과창
+
+
 ![제목 없음](https://user-images.githubusercontent.com/102511020/206482991-259cba08-0642-43e2-8926-b8586c189b0b.png)
 
 
 
-//2번문제
+
